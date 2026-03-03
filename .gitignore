@@ -1,0 +1,12 @@
+# Bỏ qua các file thực thi
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Bỏ qua thư mục của VS Code
+.vscode/
+
+# Bỏ qua các file môi trường (nếu sau này em dùng)
+.env
